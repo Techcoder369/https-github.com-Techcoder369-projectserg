@@ -1,0 +1,5 @@
+{
+  "name": "Street Animal Rescue Platform",
+  "description": "An AI-powered full-stack platform for coordinated street animal rescue, reporting, and adoption.",
+  "requestFramePermissions": ["geolocation"]
+}
